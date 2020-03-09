@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.license                = "AppD"
   s.author                 = "AppD"
   s.platforms              = { :ios => "9.0", :tvos => "9.2" }
-  s.source                 = { :git => 'https://github.com/facebook/react-native.git' }
+  s.source                 = { :git => 'https://github.com/bassembenjemaa/appd2.git' }
   s.preserve_paths         = "package.json", "LICENSE", "LICENSE-docs"
   s.cocoapods_version      = ">= 1.2.0"
 
